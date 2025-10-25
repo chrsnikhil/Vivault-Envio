@@ -26,4 +26,4 @@ pnpm codegen
 
 Dynamic contract registration enabled for UserVault contracts.
 
-<!-- Deployment trigger -->
+<!-- Deployment trigger: force rebuild -->
